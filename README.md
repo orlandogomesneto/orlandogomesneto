@@ -6,20 +6,19 @@ Experience & Achievements 📖: <br/>
 
   • Undertaken university projects involving neural networks, data analysis, and data manipulation. <br/>
   • Have national and international articles in the process of being published. <br/> 
-  • Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena, and Calculus. <br/>
+  • Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena and Calculus. <br/>
   • Possess a robust understanding of algorithms and computational methods. <br/>
   • Broad technological comprehension.  <br/>
   
 Skills & Proficiencies 📜: <br/>
 
-  • Software & Programming Languages: Python, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, MATLAB, Scilab, Spyder and Microsoft Office. <br/>
-  • Technologies: Machine Learning, Artificial Intelligence. <br/>
+  • Software & Programming Languages: Python, MATLAB, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, Scilab, Spyder and Microsoft Office. <br/>
+  • Technologies: Machine Learning and Artificial Intelligence. <br/>
   • Data Analysis: Proficient in data analysis and interpretation. <br/>
   • Soft Skills: Communication, Leadership, Initiative. <br/>
   • General Tech: Comprehensive knowledge of various software and hardware. <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 ALWAYS learning and improving...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Orlando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
