@@ -41,8 +41,8 @@ Skills & Proficiencies 📜: <br/>
 </div><br/>
 
 ## IMPORTANT REPOSITORY: <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_1&theme=radical)](https://github.com/orlandogomesneto/Neural_Network_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_2&theme=radical)](https://github.com/orlandogomesneto/Neural_Network_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_1&theme=radical&langs_count=true)](https://github.com/orlandogomesneto/Neural_Network_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_2&theme=radical&langs_count=true)](https://github.com/orlandogomesneto/Neural_Network_2)
 
 
 
