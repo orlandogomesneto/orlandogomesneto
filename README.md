@@ -38,9 +38,9 @@ Skills & Proficiencies 📜: <br/>
   <a href = "mailto:orlando.gomes@unifesp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/orlando-gomes-neto-21b241188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5519995077848" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-</div>
-<br/>
-## IMPORTANT REPOSITORY: 
-<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_1&theme=radical)]
-(https://github.com/orlandogomesneto/Neural_Network_1)
+</div><br/>
+
+## IMPORTANT REPOSITORY: <br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
