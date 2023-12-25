@@ -41,6 +41,7 @@ Skills & Proficiencies 📜: <br/>
 </div><br/>
 
 ## IMPORTANT REPOSITORY: <br/>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
