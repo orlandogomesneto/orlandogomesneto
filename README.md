@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Orlando Gomes Neto, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
 
-My specialization lies in the domain of neural networks, data analysis, and machine learning, particularly as they apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment 😉.
+My specialization lies in the domain of neural networks, data analysis and machine learning, particularly as they apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment 😉.
 
 - 🌱 ALWAYS learning and improving...
 
@@ -10,12 +10,12 @@ Experience & Achievements 📖: <br/>
 
   - Undertaken university projects involving neural networks, data analysis, and data manipulation. <br/>
   - Have national and international articles in the process of being published. <br/> 
-  - Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena and Calculus. <br/>
+  - Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena, and Calculus. <br/>
   - Possess a robust understanding of algorithms and computational methods. <br/>
   
 Skills & Proficiencies 📜: <br/>
 
-  - Software & Programming Languages: Python, MATLAB, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, Scilab, Spyder and Microsoft Office. <br/>
+  - Software & Programming Languages: Python, MATLAB, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, Scilab, Spyder, and Microsoft Office. <br/>
   - Technologies: Machine Learning and Artificial Intelligence. <br/>
   - Data Analysis: Proficient in data analysis and interpretation. <br/>
   - Soft Skills: Communication, Leadership, Initiative. <br/>
