@@ -1,24 +1,25 @@
-## 👋 Hi, I’m Orlando Gomes, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
+## 👋 Hi, I’m Orlando Gomes Neto, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
 
 My specialization lies in the domain of neural networks, data analysis, and machine learning, particularly as they apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment 😉.
 
+- 🌱 ALWAYS learning and improving...
+
+## ABOUT ME:
+
 Experience & Achievements 📖: <br/>
 
-  • Undertaken university projects involving neural networks, data analysis, and data manipulation. <br/>
-  • Have national and international articles in the process of being published. <br/> 
-  • Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena and Calculus. <br/>
-  • Possess a robust understanding of algorithms and computational methods. <br/>
-  • Broad technological comprehension.  <br/>
+  - Undertaken university projects involving neural networks, data analysis, and data manipulation. <br/>
+  - Have national and international articles in the process of being published. <br/> 
+  - Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena and Calculus. <br/>
+  - Possess a robust understanding of algorithms and computational methods. <br/>
   
 Skills & Proficiencies 📜: <br/>
 
-  • Software & Programming Languages: Python, MATLAB, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, Scilab, Spyder and Microsoft Office. <br/>
-  • Technologies: Machine Learning and Artificial Intelligence. <br/>
-  • Data Analysis: Proficient in data analysis and interpretation. <br/>
-  • Soft Skills: Communication, Leadership, Initiative. <br/>
-  • General Tech: Comprehensive knowledge of various software and hardware. <br/>
+  - Software & Programming Languages: Python, MATLAB, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, Scilab, Spyder and Microsoft Office. <br/>
+  - Technologies: Machine Learning and Artificial Intelligence. <br/>
+  - Data Analysis: Proficient in data analysis and interpretation. <br/>
+  - Soft Skills: Communication, Leadership, Initiative. <br/>
 
-- 🌱 ALWAYS learning and improving...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Orlando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,5 +39,8 @@ Skills & Proficiencies 📜: <br/>
   <a href="https://www.linkedin.com/in/orlando-gomes-neto-21b241188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5519995077848" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Neural_Network_1)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+## IMPORTANT REPOSITORY: 
+<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandogomesneto&repo=Neural_Network_1&theme=radical)]
+(https://github.com/orlandogomesneto/Neural_Network_1)
