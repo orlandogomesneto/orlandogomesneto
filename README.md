@@ -29,7 +29,8 @@ Skills & Proficiencies 📜: <br/>
   <img align="center" alt="Orlando-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="center" alt="Orlando-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Orlando-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>      
+  <img align="center" alt="Orlando-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Orlando-Excel" height="30" width="40" src="https://icons8.com/icon/117561/microsoft-excel-2019"/>
 </div>
 <br/>
 <div> 
