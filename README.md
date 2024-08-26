@@ -8,6 +8,7 @@ My specialization lies in the domain of neural networks, data analysis and machi
 
 Experience & Achievements 📖: <br/>
 
+  - Experience in the financial market, in the management of investment funds, products and economics. <br/>
   - Undertaken university projects involving neural networks, data analysis, and data manipulation. <br/>
   - Have national and international articles in the process of being published. <br/> 
   - Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena, and Calculus. <br/>
@@ -15,7 +16,8 @@ Experience & Achievements 📖: <br/>
   
 Skills & Proficiencies 📜: <br/>
 
-  - Software & Programming Languages: Python, MATLAB, C, R, Fortran, Java, Pearl, ASPEN, Surfer, CADM, Scilab, Spyder, and Microsoft Office. <br/>
+  - Programming Languages: Python, SQL, VBA, C, R, Fortran, Java and Pearl. <br/>
+  - Software: Excel, MATLAB, ASPEN, Surfer, CAD, Scilab and Microsoft Office. <br/>
   - Technologies: Machine Learning and Artificial Intelligence. <br/>
   - Data Analysis: Proficient in data analysis and interpretation. <br/>
   - Soft Skills: Communication, Leadership, Initiative. <br/>
