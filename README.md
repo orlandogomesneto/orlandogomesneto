@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Orlando Gomes Neto, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
+## 👋 Hi, I’m Orlando Pardini Gardezani, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
 
 My specialization lies in the domain of neural networks, data analysis and machine learning, particularly as they apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment 😉.
 
