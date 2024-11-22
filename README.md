@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Orlando Pardini Gardezani, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
 
-My specialization lies in the domain of neural networks, data analysis and machine learning, particularly as they apply to alcoholic fermentation chemical processes and pharmacological wastewater treatment 😉.
+Chemical Engineer with a strong technical and analytical background from the Federal University of São Paulo. Experienced in programming, automation, and process optimization. Skilled in contributing to financial projects, data analysis, and developing technological solutions for complex problems. 😉.
 
 - 🌱 ALWAYS learning and improving...
 
